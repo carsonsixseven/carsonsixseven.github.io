@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Carson&#39;s Sports Blog</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog with examples of why baseball is weird.</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Tue, 04 Nov 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>If a pitcher has a dominant ERA, will his wins tell the same story?</title>
+  <dc:creator>Carson Jasa</dc:creator>
+  <link>https://your-website-url.example.com/posts/mlb-pitching-wins-era-difference/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Carson Jasa is the bonafide GOAT of Nebraska Baseball</p>
+
+
+
+ ]]></description>
+  <category>MLB</category>
+  <category>pitching</category>
+  <category>stats</category>
+  <category>ERA</category>
+  <category>Baseball</category>
+  <category>MLB Stats</category>
+  <guid>https://your-website-url.example.com/posts/mlb-pitching-wins-era-difference/</guid>
+  <pubDate>Tue, 04 Nov 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/mlb-pitching-wins-era-difference/image.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>
