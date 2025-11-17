@@ -132,7 +132,7 @@ font-style: inherit;">"Total Wins"</span>,</span>
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"By: Carson Jasa"</span></span>
+font-style: inherit;">"Source: Baseball Reference | By: Carson Jasa"</span></span>
 <span id="cb1-15">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
@@ -448,7 +448,7 @@ font-style: inherit;">"Wins"</span>,</span>
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Median win value represented by red point."</span></span>
+font-style: inherit;">"Median win value represented by red point. | Source: Baseball Reference | By: Carson Jasa"</span></span>
 <span id="cb2-56">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
@@ -727,7 +727,7 @@ font-style: inherit;">"Value"</span>,</span>
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Player label includes ERA value"</span></span>
+font-style: inherit;">"Player label includes ERA value | Source: Baseball Reference | By: Carson Jasa"</span></span>
 <span id="cb3-45">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
